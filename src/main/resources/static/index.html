@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Elevator System Control Panel</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="control-panel">
+    <div id="floor-labels"></div>
+    <div id="floor-buttons"></div>
+    <div id="elevator-container"></div>
+</div>
+
+
+<div class="interface">
+    <button id="next-step-btn" onclick="step()">Next Step</button>
+    <div id="destination-buttons">
+        <label id="destination-floor-label">Floor Selected: 0</label>
+    </div>
+    <button id="refresh-status-btn" onclick="logElevators()">Log status</button>
+</div>
+<script src="script.js"></script>
+</body>
+</html>
