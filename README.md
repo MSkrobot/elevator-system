@@ -38,7 +38,7 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
 
     ```sh
-    git clone path/to/michal-skrobot-elevator-system.bundle
+    git clone path/to/michal-skrobot-elevator-system.bundle my-elevator-system
     cd my-elevator-system
     ```
 
