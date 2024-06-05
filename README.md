@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Elevator System Control Panel
 
 ## Table of Contents
