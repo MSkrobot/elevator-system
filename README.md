@@ -1,4 +1,5 @@
 # Elevator System Control Panel
+![screenshot-elevator-system.png](screenshot-elevator-system.png)
 
 ## Table of Contents
 
