@@ -70,6 +70,3 @@ Before you begin, ensure you have the following installed:
 - CSS
 - JavaScript
 - REST
-=======
-# elevator-system
->>>>>>> origin/main
